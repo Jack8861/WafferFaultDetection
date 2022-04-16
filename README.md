@@ -36,4 +36,4 @@ This project is used to detect faulty waffers and alert the user for repair and 
 - model retraining approach
 - deployment on aws.
 
-### Special thanks to ineuron for teaching and walking me through this project.
+### Special thanks to ineuron for teaching and walking me through this real life end to end project.
